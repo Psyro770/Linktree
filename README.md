@@ -9,7 +9,7 @@
   </a>
 </p>
 
->  Easyy to iusee
+>  Easy to use
 
 ### 🏠 [Homepage](https://psyro.de)
 
