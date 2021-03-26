@@ -9,7 +9,7 @@
   </a>
 </p>
 
->  Easy to use
+>  Easy to use just update the index.html
 
 ### 🏠 [Homepage](https://psyro.de)
 
