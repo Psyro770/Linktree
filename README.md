@@ -15,6 +15,8 @@
 
 ### ✨ [Demo](https://tree.psyro.de/)
 
+### ✨ [Docs / Guid](https://tree.psyro.de/docs.html)
+
 ##  📷 Image Demo
    
 <p>
